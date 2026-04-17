@@ -1,0 +1,3 @@
+O navegador espera iniciar uma sessão TLS porque tentei acessaro endereço https://localhost:8443. 
+Mas o comando do exercício sobe um serviço HTTP normal (não HTTPS) na porta 8443, então há incompatibilidade 
+entre o protocolo esperado pelo navegador e o protocolo realmente entregue pelo servidor.
