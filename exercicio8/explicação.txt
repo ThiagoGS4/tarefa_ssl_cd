@@ -1,0 +1,6 @@
+Foi criado um script em Python para configurar o servidor HTTPS com o certificado aluno.crt 
+e a chave privada aluno.key, informando explicitamente o caminho desses arquivos. 
+Em seguida, o servidor foi iniciado por meio desse script, 
+permitindo o acesso via https://localhost:8443 e a verificação do certificado digital no navegador.
+Esse é um certificado autoassinado por isso ele avisa da falta de segurança dele, mas como eu assinei 
+permiti o acesso.
