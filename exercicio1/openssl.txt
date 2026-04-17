@@ -1,0 +1,10 @@
+Certificados SSL (Secure Sockets Layer) são usados ​​para estabelecer uma conexão criptografada 
+entre um navegador ou o computador do usuário e um servidor ou site.
+
+SSL protege protege o trafego de dados entre site e navegador criptografando dados usando um par de chaves,
+uma pública e uma privada.
+
+A chave privada fica no servidor (como nginx), nunca deve ser compartilhada, só serve para fechar o handshake
+a chave pública fica no certificado SSL que fica no servidor (como nginx), 
+onde todo mundo que acessa o site precisa apresentar esse certificado e ele é distribuido para o navegador quando 
+o site é acessado
