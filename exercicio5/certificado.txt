@@ -1,0 +1,4 @@
+o comando usa a solicitação aluno.csr criada anteriormente para criar a chave privada aluno.key para gerar 
+o arquivo aluno.crt, que nesse caso é um certificado autoassinado válido por 365 dias.
+
+ele é o certificado que pode ser usado por um servidor para conexões HTTPS.
