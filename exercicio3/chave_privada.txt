@@ -1,0 +1,3 @@
+A chave privada fica no servidor (como nginx), nunca deve ser compartilhada, 
+serve para fechar o handshake entre o usuário e o servidor, 
+é ela que descriptografa os dados que foram criptografados com a chave pública.
