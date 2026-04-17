@@ -1,0 +1,4 @@
+CSR (Certificate Signing Request): arquivo enviado a uma Autoridade Certificadora para pedir a emissão de um certificado SSL/TLS,
+contendo informações como nome comum, organização, localidade, país e a chave pública correspondente.
+
+é uma solicitação formal à emissão do certificado
