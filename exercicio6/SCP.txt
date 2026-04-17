@@ -1,0 +1,3 @@
+esse comando é para fazer uma cópia dos arquivos contidos no diretório certificates em /etc/ssl/certificates/,
+essa cópia é feita através do protocolo ssh que garante a segurança através da criptografia e autenticação
+dos arquivos.
